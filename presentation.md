@@ -1,4 +1,6 @@
 ---
+title: AI & Copyright
+author: Jackie Yang
 theme: uncover
 class: invert
 paginate: true
